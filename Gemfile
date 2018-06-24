@@ -42,3 +42,4 @@ gem "haml-rails", "~> 1.0"
 gem 'bootstrap', '~> 4.1.0'
 gem 'jquery-rails'
 gem 'meta-tags'
+gem 'will_paginate'
