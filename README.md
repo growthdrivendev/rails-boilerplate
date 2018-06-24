@@ -1,24 +1,3 @@
-# README
+# The Rails boilerplate by Growth Driven Development
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This boilerplate was created to speed up the process of learning how to create a Ruby on Rails apps during the courses posted on the [http://gddev.org](http://gddev.org) education platform.
