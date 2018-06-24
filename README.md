@@ -11,3 +11,10 @@ The only thing you have to do before start working with this boilerplate is to c
 ```
 
 it will update the `config/application.rb` file and the application layout.
+
+## Stack
+
+The project comes with the newest stable version of the Ruby language and the Ruby on Rails framework.
+
+* Ruby `2.5.0`
+* Rails `5.2.0`
