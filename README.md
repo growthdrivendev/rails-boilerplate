@@ -37,7 +37,3 @@ Following gems are already bundled in the project:
 ## Author
 
 Paweł Dąbrowski - [http://pdabrowski.com](http://pdabrowski.com)
-
-<a href="https://twitter.com/pdabrowski_k1?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-lang="en" data-show-count="false">Follow @pdabrowski_k1</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<a class="github-button" href="https://github.com/rubyhero" data-size="large" aria-label="Follow @rubyhero on GitHub">Follow @rubyhero</a>
