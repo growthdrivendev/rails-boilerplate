@@ -36,4 +36,4 @@ Following gems are already bundled in the project:
 
 ## Author
 
-Paweł Dąbrowski - [http://pdabrowski.com](http://pdabrowski.com)
+Paweł Dąbrowski ([@rubyhero](https://github.com/rubyhero)) - [http://pdabrowski.com](http://pdabrowski.com)
