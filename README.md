@@ -18,3 +18,7 @@ The project comes with the newest stable version of the Ruby language and the Ru
 
 * Ruby `2.5.0`
 * Rails `5.2.0`
+
+Following gems are already bundled in the project:
+
+* **Pry** - [https://github.com/pry/pry](https://github.com/pry/pry) - alternative development console and great debugging tool
