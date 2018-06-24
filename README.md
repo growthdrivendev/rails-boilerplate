@@ -22,3 +22,4 @@ The project comes with the newest stable version of the Ruby language and the Ru
 Following gems are already bundled in the project:
 
 * **Pry** - [https://github.com/pry/pry](https://github.com/pry/pry) - alternative development console and great debugging tool
+* **HAML** - [https://github.com/indirect/haml-rails](https://github.com/indirect/haml-rails) - templating engine for HTML to make it easier to write the code
