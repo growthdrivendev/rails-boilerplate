@@ -33,3 +33,11 @@ Following gems are already bundled in the project:
 * **Meta tags** - [https://github.com/kpumuk/meta-tags](https://github.com/kpumuk/meta-tags) - SEO for Ruby on Rails applications
 * **Will paginate** - [https://github.com/mislav/will_paginate](https://github.com/mislav/will_paginate) - pagination library for Rails
 * **Will paginate Bootstrap 4** - [https://github.com/delef/will_paginate-bootstrap4](https://github.com/delef/will_paginate-bootstrap4) - hooks for `will_paginate` gem to match Bootstrap 4 styles
+
+## Author
+
+Paweł Dąbrowski - [http://pdabrowski.com](http://pdabrowski.com)
+
+<a href="https://twitter.com/pdabrowski_k1?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-lang="en" data-show-count="false">Follow @pdabrowski_k1</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<a class="github-button" href="https://github.com/rubyhero" data-size="large" aria-label="Follow @rubyhero on GitHub">Follow @rubyhero</a>
