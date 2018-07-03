@@ -12,6 +12,20 @@ The only thing you have to do before start working with this boilerplate is to c
 
 it will update the `config/application.rb` file and the application layout.
 
+## Configuration
+
+If you need configuration variables in your app you can create `app.yml` config file:
+
+```
+cp config/app.yml.example config/app.yml
+```
+
+From now on you can define entries in the `app.yml` file and then use them like this:
+
+```ruby
+YourAppName.config['key_name']
+```
+
 ## Available commands
 
 If you want to quickly re-create the development environment you can call the following command:
