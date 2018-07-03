@@ -12,6 +12,16 @@ The only thing you have to do before start working with this boilerplate is to c
 
 it will update the `config/application.rb` file and the application layout.
 
+## Available commands
+
+If you want to quickly re-create the development environment you can call the following command:
+
+```
+bundle exec rake app:reset
+```
+
+It will drop the development and test databases, create them again, run migrations, load test db data (if available) and prepare test database.
+
 ## Stack
 
 The project comes with the newest stable version of the Ruby language and the Ruby on Rails framework.
